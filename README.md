@@ -147,7 +147,7 @@ I build and maintain open-source projects that help developers and businesses au
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** [atereemmanuel.vercel.app](https://atereemmanuel.vercel.app)
+- 🌐 **Portfolio:** [atereemmanuel.vercel.app](https://atere.dev)
 - 💼 **LinkedIn:** [emmanuel-atere-908772209](https://www.linkedin.com/in/emmanuel-atere-908772209/)
 - 📧 **Email:** emmanuelatere44@gmail.com
 - 📱 **WhatsApp:** [+234 813 215 5087](https://wa.me/2348132155087)
